@@ -45,3 +45,4 @@ sudo apt-get -y install libssh2-1-dev
 sudo apt-get -y install openssh-server 
 sudo apt-get -y install freeipa-admintools
 sudo apt-get -y install python-pip
+sudo apt-get -y install npm
