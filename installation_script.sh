@@ -17,8 +17,7 @@ sudo apt-get -y install cutecom
 sudo apt-get -y install guake
 sudo apt-get -y install docker.io
 sudo apt-get -y install repo
-
-# net
+sudo apt-get -y install pv
 sudo apt-get -y install jq
 sudo apt-get -y install curl
 sudo apt-get -y install rpm
@@ -31,9 +30,6 @@ sudo apt-get -y install arpwatch
 sudo apt-get -y install net-tools
 sudo apt-get -y install awscli
 sudo apt-get -y install nmap
-
-
-
 sudo apt-get -y install g++
 sudo apt-get -y install zlib1g-dev
 sudo apt-get -y install libboost-all-dev
