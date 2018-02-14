@@ -27,4 +27,7 @@ sudo apt -y autoremove
 # SQL
 sudo apt-get install -y mysql-workbench
 sudo apt-get install -y mysql-server
+
 # notatki: slack, intelij
+
+sudo apt-get install -y mc
