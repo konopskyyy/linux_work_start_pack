@@ -24,5 +24,7 @@ sudo apt-get install -y gimp
 
 sudo apt -y autoremove 
 
-
+# SQL
+sudo apt-get install -y mysql-workbench
+sudo apt-get install -y mysql-server
 # notatki: slack, intelij
