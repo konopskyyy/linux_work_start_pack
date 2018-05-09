@@ -31,3 +31,9 @@ sudo apt-get install -y mysql-server
 # notatki: slack, intelij
 
 sudo apt-get install -y mc
+
+$ docker
+
+sudo apt-get install -y docker io
+sudo apt-get install -y docker
+sudo apt-get install -y docker-compose
